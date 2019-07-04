@@ -120,4 +120,4 @@ where porcentagem > 1;
 
 You can check this queries at repo as well.
 ### How to RUN
-No terminal da máquina virtual, execute `python relatorio.py`. Aguarde alguns segundos e o arquivo `relatorio.txt` será atualizado. Caso o arquivo não exista previamente, ele será gerado.
+At the VM terminal run  `python relatorio.py`.wait and the file `relatorio.txt` will be updated.
